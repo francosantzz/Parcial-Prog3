@@ -1,6 +1,6 @@
 ## Springboot API REST P3
 
-Este repositorio contiene el proyecto correspondiente al Parcial Número 1 de la materia Programación 3 de la Tecnicatura Universitaria en Programación. El proyecto consiste en una API REST desarrollada con Spring Boot, haciendo uso de H2 como base de datos, y desplegada en la plataforma Render.
+Este repositorio contiene el proyecto correspondiente al Parcial Número 1 de la materia Programación 3 de la Tecnicatura Universitaria en Programación. El proyecto consiste en una API REST desarrollada con Spring Boot, haciendo uso de H2 como base de datos.
 
 ### Funcionalidades
 
